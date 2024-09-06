@@ -1,3 +1,4 @@
+
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
 ### DATE: 
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
@@ -24,7 +25,11 @@
     <p>c. Connect the output of the visualization operator(s) to the input of the "Write Excel" operator.
     <p>d. Configure the file path and other settings for the Excel export.
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
-
 ### Output:
+![out1](https://github.com/user-attachments/assets/31a1c81f-d6dd-42e9-9342-c68f6a9df498)
+
+![out2](https://github.com/user-attachments/assets/5fb84cd7-006c-428c-906e-0302c0419804)
+
 
 ### Result:
+Thus,successfully executed to create a project for Sentimental Analysis on Any Dataset a Using Rapidminer.
